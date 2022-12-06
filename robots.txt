@@ -1,0 +1,59 @@
+User-agent: *
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /manager/
+Disallow: /*?*start=0$
+Disallow: /top/
+Disallow: /ute/
+Disallow: /urf/
+Disallow: *red_id*
+Disallow: /amp$
+Allow: /assets/docs/privacy-policy.pdf
+Allow:/assets/snippets/jot/templates/comment_trans.gif
+Allow:/assets/snippets/jot/templates/jot.css
+Sitemap: https://tezis-tula.ru/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /manager/
+Disallow: /*?*start=0$
+Disallow: /top/
+Disallow: /ute/
+Disallow: /urf/
+Disallow: *red_id*
+Disallow: /amp$
+Allow: /assets/docs/privacy-policy.pdf
+Allow:/assets/snippets/jot/templates/comment_trans.gif
+Allow:/assets/snippets/jot/templates/jot.css
+Sitemap: https://tezis-tula.ru/sitemap.xml
+
+User-agent: Yandex
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /manager/
+Disallow: /*?*start=0$
+Disallow: /top/
+Disallow: /ute/
+Disallow: /urf/
+Disallow: *red_id*
+Disallow: /amp$
+Allow: /assets/docs/privacy-policy.pdf
+Allow:/assets/snippets/jot/templates/comment_trans.gif
+Allow:/assets/snippets/jot/templates/jot.css
+Sitemap: https://tezis-tula.ru/sitemap.xml
